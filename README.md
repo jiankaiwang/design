@@ -15,8 +15,6 @@ In the book, we introduce the following design tools.
 * Rendering : V-ray 3
 * Industrial Design : Rhino 5
 * Animation : [Maya](maya/README.md) 2009
-
-
 * Engine : [Unity](unity/README.md) 5.6
 
 
