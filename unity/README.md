@@ -28,13 +28,13 @@ In the document, all the procedures are demostrated on the following environment
 
 ## Content
 
-* [User Interface](unity/ui.md)
-* [Project Management](unity/project_management.md)
-* [Object Editing](unity/object_editing.md)
-* [Terrain Generator](unity/terrain_generator.md)
+* [User Interface](ui.md)
+* [Project Management](project_management.md)
+* [Object Editing](object_editing.md)
+* [Terrain Generator](terrain_generator.md)
 * [Tree Generator](tree_generator.md)
-* [Sky Environment](unity/sky_environment.md)
-* [Light](unity/light.md)
+* [Sky Environment](sky_environment.md)
+* [Light](light.md)
 * [Import a 3D Modeling Object](import_3d_objects.md)
 
 
