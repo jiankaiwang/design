@@ -15,6 +15,8 @@ In unity, a project means the collection of all necessary resources, such like 3
 
 
 
+
+
 ## Open a Project
 
 
@@ -22,6 +24,8 @@ In unity, a project means the collection of all necessary resources, such like 3
 * Click `File`, `Open Project` on the toolbar.
 * Choose the project what you want to open.
 * If you upgrade unity or open a old version project from a relatively new version unity environemt, message `Upgrading project` would exist to notify you to upgrade the project. You can't open the project on the old unity after you upgrade it.
+
+
 
 
 
@@ -33,6 +37,8 @@ In unity, a project means the collection of all necessary resources, such like 3
 
 
 
+
+
 ## Create a Scene
 
 
@@ -41,12 +47,18 @@ In unity, a project means the collection of all necessary resources, such like 3
 * You can also create a new scene by right-clicking the current sence on hierarchy view, and then choose `Add New Sence`.
 
 
+![add a new sence on unity](../image/unity_add_new_sence.png)
+
+
+
 
 ## Open a Scene
 
 
 
 * Click `File`, `Open Sence` on the toolbar and choose the sence (e.g. sence1.unity).
+
+
 
 
 
@@ -59,11 +71,13 @@ In unity, a project means the collection of all necessary resources, such like 3
 
 
 
+
 ## Build a Project
 
 
 
 * Click `File`, `Build Settings` on the toolbar, and you can build the project on different platforms.
+
 
 
 
@@ -75,11 +89,15 @@ In unity, a project means the collection of all necessary resources, such like 3
 
 
 
+
 ## Package a Project
 
 
 
 * It is easy to package the project resource for distributing it. On `Porject View` right-click on the folder (e.g. Asset) which you want to export, choose `Export Package`, select the resource, and `Export` a `.unitypackage` file.
+
+
+![export the resource from unity](../image/unity_export_package.png)
 
 
 

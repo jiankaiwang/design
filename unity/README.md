@@ -30,7 +30,8 @@ In the document, all the procedures are demostrated on the following environment
 
 * [User Interface](ui.md)
 * [Project Management](project_management.md)
-* [Object Editing](object_editing.md)
+* [View / Object Control](view_object_control.md)
+* [GameObject / Prefab](gameobject_prefab.md)
 * [Terrain Generator](terrain_generator.md)
 * [Tree Generator](tree_generator.md)
 * [Sky Environment](sky_environment.md)
