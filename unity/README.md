@@ -32,6 +32,7 @@ In the document, all the procedures are demostrated on the following environment
 * [Project Management](project_management.md)
 * [View / Object Control](view_object_control.md)
 * [GameObject / Prefab](gameobject_prefab.md)
+* [Asset Store](asset_store.md)
 * [Terrain Generator](terrain_generator.md)
 * [Tree Generator](tree_generator.md)
 * [Sky Environment](sky_environment.md)
