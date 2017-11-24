@@ -60,7 +60,22 @@ You can also change the `Light` attributes on the `Inspector` view.
 
 
 
+Spotlight emits the cone like light, and it is commonly used as the flashlight, searchlight, or car lamp.
 
+![](../image/unity_spotlight.png)
+
+The light attributes are similar with the point light.
+
+* Parameter settings, including `Type`, `Range`, `Color`, `Mode`, `Intensity`, `Indirect Multiplier`, `Shadow Type`, `Draw Halo`, `Flare`, and `Render Mode`, are similar with the point light.
+* `Spot Angle` : Set the spotlight emitting angle range from 0 to 360 degree. 
+
+![spotlight angle](../image/unity_spotlight_angle.png)
+
+* `Cookie` : The Cookie is the lighting texture, for example flashlight, etc. It is also easy to use different textures to simulate the object shadow, for example, flowers, etc.
+
+![cookie of spotlight](../image/unity_spotlight_cookie.png)
+
+* `Culling Mask` : The culling mask makes the lighted object is culled or is masked.
 
 
 
@@ -68,7 +83,9 @@ You can also change the `Light` attributes on the `Inspector` view.
 
 
 
+The Directional Light is commonly used as the sun light. The light attributes are similar with the above both light sources. 
 
+![shadows from direcional light](../image/unity_directional_light_shadows.png)
 
 
 
@@ -76,6 +93,20 @@ You can also change the `Light` attributes on the `Inspector` view.
 
 
 
+In Unity, it also supports Light mapping. The Light mapping is the baked result to precompute the lighting result, and that is good for gaming performance. But it can't be a good solution for dynamic lighting, for example, location moving, color changing, or lighting strength, etc.
+
+
+
+* It is easy to bake the object by transforming it into the `Static` mode. In Inspector view, you can set the parameters for `Lightmap Settings`.
+
+![bake the object](../image/unity_directional_light_bake.png)
+
+* Choose the light, set the light mode to `Baked`, and set the `Shadow Type` to `Hard` or `Soft Shadows`.
+
+
+* Set the environment parameters by clicking `Window`, `Lightening`, `Settings` on the toolbar. 
+  * On the `Environement Lighting`, set the following parameter. Set the `Ambient Mode` to `Baked`.
+  * On the `Lightmapping Settings`, set the following parameter. Set `Indirect Resolution`, `Lightmap Resolution`, `Lightmap Padding`, `Lightmap Size`, `Compress Lightmaps`, and `Ambient Occlusion`, etc.
 
 
 
@@ -84,7 +115,7 @@ You can also change the `Light` attributes on the `Inspector` view.
 
 
 
-
+You can also download the lighting tool plugin and install it into the Unity, for example, `Lighting Box 2 `, etc.
 
 
 
