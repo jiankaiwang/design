@@ -1,0 +1,27 @@
+{
+    "plugins" : [ "autocover","versions","mathjax" ],  
+    "pluginsConfig": {
+        "autocover": {
+              "title": "Just Desgin!",
+              "author": "J.K. Wang",
+              "font": {
+                  "size": null,
+                  "family": "Impact",
+                  "color": "#000"
+              },
+              "size": {
+                  "w": 1800,
+                  "h": 2360
+              },
+              "background": {
+                  "color": "#FFF"
+              }
+        },
+        "versions": {
+            "type": "branches"
+        },
+        "mathjax":{
+            "forceSVG": true
+        }
+    }
+}
