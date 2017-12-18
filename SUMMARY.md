@@ -19,5 +19,6 @@
   * [Sky Environment](unity/sky_environment.md)
   * [Light](unity/light.md)
   * [Import a 3D Modeling Object](unity/import_3d_objects.md)
+  * [Create a 3D Character - First Personal Controller](unity/create_3d_character.md)
 
 

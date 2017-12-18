@@ -46,3 +46,7 @@ In the document, all the procedures are demostrated on the following environment
 
 * Unity Official Website : [https://unity3d.com/](https://unity3d.com/)
   * It includes lots of `Learn`, `Asset Store` materials.
+* 3D Character Controller :
+  * First Person Controller : 
+    * **Holistic3d** on Youtube : [https://www.youtube.com/watch?v=blO039OzUZc](https://www.youtube.com/watch?v=blO039OzUZc)
+
