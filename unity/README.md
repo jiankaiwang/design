@@ -38,6 +38,8 @@ In the document, all the procedures are demostrated on the following environment
 * [Sky Environment](sky_environment.md)
 * [Light](light.md)
 * [Import a 3D Modeling Object](import_3d_objects.md)
+* [Create a 3D Character - First Person Controller](create_3d_character.md)
+* [Create a 3D Character - Third Person Controller](create_3d_character_3rd_person_controller.md)
 
 
 
@@ -49,4 +51,8 @@ In the document, all the procedures are demostrated on the following environment
 * 3D Character Controller :
   * First Person Controller : 
     * **Holistic3d** on Youtube : [https://www.youtube.com/watch?v=blO039OzUZc](https://www.youtube.com/watch?v=blO039OzUZc)
+  * Third Person Controller
+    * John McElmurray (**jm991**) on github : [https://github.com/jm991/UnityThirdPersonTutorial](https://github.com/jm991/UnityThirdPersonTutorial)
+    * **John McElmurray** (jm991) on youtube : [https://www.youtube.com/watch?v=1yOyO06xm34](https://www.youtube.com/watch?v=1yOyO06xm34)
+    * JianKaiWang on github
 
